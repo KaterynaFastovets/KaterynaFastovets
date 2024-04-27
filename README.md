@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-<a href="https://github.com/KaterynaFastovets" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5gZzpw9gikp3ACJzDBLS1Dd3LBh48uLnGy90mVcfQhC8kV2VnO1PwqF8UZqe-vbIf5w&usqp=CAU" alt="https://github.com/KaterynaFastovets" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kateryna-fastovets-443261305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kateryna-fastovets-443261305/" height="30" width="40" /></a>
+<a href="https://github.com/KaterynaFastovets" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5gZzpw9gikp3ACJzDBLS1Dd3LBh48uLnGy90mVcfQhC8kV2VnO1PwqF8UZqe-vbIf5w&usqp=CAU" alt="https://github.com/KaterynaFastovets" height="30" width="40">
+</a>
+<a href="https://www.linkedin.com/in/kateryna-fastovets-443261305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kateryna-fastovets-443261305/" height="30" width="40"></a>
 
 ---
 
