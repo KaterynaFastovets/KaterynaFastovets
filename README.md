@@ -6,7 +6,7 @@
 
 - I am currently studying at the Hillel school on a Fullstack JS course. I use GitHub to collaborate on projects and contribute to open source.
 - 👨‍💻 All of my projects are available at [Currently there is none](https://www.linkedin.com/in/kateryna-fastovets-443261305/)
-- 📫 How to reach me **KatyaFastovets@gimail.com**
+- 📫 How to reach me **katyafastovets@gmail.com**
 
 ---
 
